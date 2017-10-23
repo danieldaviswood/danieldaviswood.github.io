@@ -1,6 +1,11 @@
-# The Open Source Scholar
+# Welcome to Open Source Scholarship
 
-## My Personal Index
+Hi. My name is Daniel Davis Wood and I'm a teacher of literature. I read, research, and write about literature every day.
+
+
+## Basic Resources
+
+### My Personal Index
 
 [My personal index](https://www.evernote.com/shard/s192/sh/4cc64c94-92be-4502-9312-79fabdcc859b/1dc522c07efe5e51e4e969f851cd1f0a) is a list of all the resources I have on-hand in my library.
 
