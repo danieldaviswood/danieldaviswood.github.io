@@ -7,7 +7,11 @@ Hi. My name is Daniel Davis Wood and I'm a teacher of literature. I read, resear
 
 ### My Personal Index
 
-[My personal index](https://www.evernote.com/shard/s192/sh/4cc64c94-92be-4502-9312-79fabdcc859b/1dc522c07efe5e51e4e969f851cd1f0a) is a list of all the resources I have on-hand in my library.
+[My personal index](https://www.evernote.com/shard/s192/sh/4cc64c94-92be-4502-9312-79fabdcc859b/1dc522c07efe5e51e4e969f851cd1f0a) via Evernote is a list of all the resources I have on-hand in my library.
+
+### Poetry
+[My poetry archive](https://drive.google.com/open?id=0B_FDz9fGePxpMnhENHFrWjBWTGc) via Google Drive.
+[Prose excerpts](https://drive.google.com/open?id=0B_FDz9fGePxpZzZITFVZSFBMZEU) via Google Drive.
 
 You can use the [editor on GitHub](https://github.com/danieldaviswood/danieldaviswood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
