@@ -1,6 +1,8 @@
 # Welcome to Open Source Scholarship
 
-Hi. My name is Daniel Davis Wood and I'm a teacher of literature. I read, research, and write about literature every day.
+Hi. My name is Daniel Davis Wood and I'm a teacher of literature. I read and write about literature pretty much every day. I think about it, I research it, I discuss it with others, and I try to share my findings and knowledge as widely as I can. On these pages, you'll find details on a few of the literary projects I'm working on right now.
+
+Why open up my work-in-progress to the public? Mostly because I want to demystify the processes of creating scholarly work and, more importantly, applying scholarly concepts, methods of analysis, and habits of mind to the literature that most deeply engages me. When I come face-to-face with students, I notice that they tend to be a bit baffled by the processes behind the things I do. They're baffled because all they really get to see are the smooth surfaces of things: slick presentations and clear, published prose, only my most polished work. They see the finished products as things without sources of origin, produced without risk of error or misdirection, and so they can't develop a meaningful sense of how a scholarly output inches its way fitfully into existence. I want to change that situation.
 
 
 ## Basic Resources
@@ -12,39 +14,3 @@ Hi. My name is Daniel Davis Wood and I'm a teacher of literature. I read, resear
 ### Poetry
 [My poetry archive](https://drive.google.com/open?id=0B_FDz9fGePxpMnhENHFrWjBWTGc) via Google Drive.
 [Prose excerpts](https://drive.google.com/open?id=0B_FDz9fGePxpZzZITFVZSFBMZEU) via Google Drive.
-
-You can use the [editor on GitHub](https://github.com/danieldaviswood/danieldaviswood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danieldaviswood/danieldaviswood.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
