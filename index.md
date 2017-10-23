@@ -1,6 +1,8 @@
 # The Open Source Scholar
 
-## Welcome to the Open Source Scholar
+## My Personal Index
+
+[My personal index](https://www.evernote.com/shard/s192/sh/4cc64c94-92be-4502-9312-79fabdcc859b/1dc522c07efe5e51e4e969f851cd1f0a) is a list of all the resources I have on-hand in my library.
 
 You can use the [editor on GitHub](https://github.com/danieldaviswood/danieldaviswood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
